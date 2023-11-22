@@ -26,7 +26,7 @@ body {
     width: 100%;
     top: 0;
     left: 0;
-    background-color: #3333337e;
+    background-color: #33333356;
     background-position: center;
     background-size: cover;
     z-index: 1;
@@ -37,7 +37,7 @@ body {
     color: #fff;
     border-radius: 10px;
     padding: 30px 40px;
-    box-shadow: 0px 20px 30px #333;
+    box-shadow: 0px 10px 30px #333;
     background-image: linear-gradient(180deg, #009dffc4, #ec2f4bcc);
     z-index: 2;
 }
@@ -95,11 +95,11 @@ body {
 
 .remember-forgot a {
     color: #fff;
-    text-decoration: none;  
+    text-decoration: none;
 }
 
 .remember-forgot a:hover {
-    text-decoration: underline; 
+    text-decoration: underline;
 }
 
 .form-container .btn {
